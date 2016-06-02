@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Upgrade::initDownloadDir():UpdateTool.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_pathToSave">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BankLayer::BankUserInfoResult(void*, unsigned short):BankLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_TransferScore">
+            </PersistentString>
+            <PersistentString
+               value = "m_BankPass">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Upgrade::init():UpdateTool.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
